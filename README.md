@@ -17,7 +17,7 @@ Under admin user management:
 - Create: You can create a user using the drop down at the end of the list, pay attention     
 that if the new username or email(both or either) is already in the system, you can not     
 create this new user. Please use a new username/email.          
-- Read: The user list was how under admin user management page       
+- Read: The user list was showed under admin user management page       
 - Update: use the edit button at the end of each user entry to change the record.          
 - Delete: use the delete button at the end of each user entry to delete the record.       
           
